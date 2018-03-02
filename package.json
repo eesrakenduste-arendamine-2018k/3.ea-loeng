@@ -1,0 +1,23 @@
+{
+  "name": "3.ea-loeng",
+  "version": "1.0.0",
+  "description": "JSON. Selle salvestamine lokaalselt ja läbi võrgu AJAX päringu abil.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eesrakenduste-arendamine-2018k/3.ea-loeng.git"
+  },
+  "author": "Romil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eesrakenduste-arendamine-2018k/3.ea-loeng/issues"
+  },
+  "homepage": "https://github.com/eesrakenduste-arendamine-2018k/3.ea-loeng#readme",
+  "dependencies": {
+    "eslint": "^4.18.1",
+    "standard": "^11.0.0"
+  }
+}
